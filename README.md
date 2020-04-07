@@ -1,3 +1,5 @@
+## The branch will be obsolete, please use `master` branch, and `develop` is our internal developing branch.
+
 # python-ans-devices
 Python driver for OpenIMU and OpenRTK
 
